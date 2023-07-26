@@ -1,0 +1,12 @@
+POST http://localhost:3000/beers/
+Content-Type: application/json
+
+{
+    "name": "birra",
+    "tagline": "birra",
+    "first_brewed": "birra",
+    "description": "birra",
+    "attenuation_level": 80,
+    "brewers_tips": "birra",
+    "contributed_by": "birra"
+}
